@@ -8,4 +8,4 @@ PythonTelegramBot, Requests, Dotenv
 
 ### Поднимать настроение фотографиями с котиками или пёсиками.
 
-![Image alt](ttps://github.com/DmitriiParshin/kittybot/raw/master/image/image.png)
+![Image alt](https://github.com/DmitriiParshin/kittybot/raw/master/image/image.png)
