@@ -2,7 +2,7 @@
 
 ## Технологии
 
-PythonTelegramBot, Requests, Dotenv
+PythonTelegramBot, Requests, Logging, Dotenv
 
 ## Что умеет делать бот
 
